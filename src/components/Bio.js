@@ -4,7 +4,7 @@ import { getGravatarURL } from '../utils/getGravatarURL'
 
 function Bio(props) {
   let photoURL = getGravatarURL({
-    email: "test1@example.com",
+    email: "zack@zacknorton.tech",
     size: 56,
   })
 
@@ -19,7 +19,7 @@ function Bio(props) {
         <a href="https://www.linkedin.com/in/zacharywnorton/">Zack Norton</a>.
         <br />
         Built using{' '}
-        <a href="https://github.com/jamesknelson/create-react-blog">create-react-blog</a>
+        <a href="https://github.com/jamesknelson/create-react-blog">create-react-blog</a>.
         <br />
         Coding and hacking.
       </p>

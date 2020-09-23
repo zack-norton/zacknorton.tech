@@ -36,7 +36,7 @@ function BlogIndexPage({ blogRoot, pageCount, pageNumber, postRoutes }) {
           </a>
           <Link href="/about">About</Link> &bull; <Link href="/tags">Tags</Link>{' '}
           &bull;{' '}
-          <a href="https://github.com/frontarm/create-react-blog">Source</a>
+          <a href="https://github.com/zack-norton/zacknorton.tech">Source</a>
         </div>
       </footer>
     </div>
